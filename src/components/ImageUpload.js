@@ -15,6 +15,7 @@ const ImageUpload = ({ onImageUpload }) => {
       {...getRootProps()}
       sx={{
         border: '2px dashed #ccc',
+        
         padding: '20px',
         textAlign: 'center',
         cursor: 'pointer',
